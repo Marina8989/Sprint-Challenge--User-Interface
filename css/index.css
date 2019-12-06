@@ -155,11 +155,11 @@
                                                             }
                                                             /* Nav bar and image starts here */
                                                             
-                                                            nav {
+                                                            .navbar {
                                                                 margin: 20px 239px;
                                                             }
                                                             
-                                                            nav a {
+                                                            .navbar a {
                                                                 text-decoration: none;
                                                                 color: black;
                                                                 margin-left: 70px;
